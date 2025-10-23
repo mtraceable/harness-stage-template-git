@@ -4,7 +4,6 @@ template:
   versionLabel: 1.0.4
   type: Stage
   tags: {}
-  # just adding a comment
   spec:
     type: Deployment
     spec:
