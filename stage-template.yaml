@@ -1,7 +1,7 @@
 template:
   name: stage-template-from-git
   identifier: stagetemplatefromgit
-  versionLabel: 1.0.0.
+  versionLabel: 1.0.0
   type: Stage
   tags: {}
   spec:
