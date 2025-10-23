@@ -11,7 +11,7 @@ pipeline:
         tags: {}
         template:
           templateRef: account.test2stagetemplate
-          versionLabel: 1.0.2
+          versionLabel: 1.0.4
           templateInputs:
             type: Deployment
             spec:
