@@ -1,10 +1,9 @@
 template:
   name: test2-stage-template
   identifier: test2stagetemplate
-  versionLabel: 1.0.4
+  versionLabel: 1.0.5
   type: Stage
   tags: {}
-  # just adding a comment
   spec:
     type: Deployment
     spec:
